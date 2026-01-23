@@ -68,7 +68,7 @@
     "@strapi/design-system": "2.0.0-rc.18",
     "@strapi/icons": "2.0.0-rc.18",
     "ckeditor5": "~45.2.0",
-    "lodash": "4.17.21",
+    "lodash": "4.17.23",
     "sanitize-html": "2.13.0",
     "yup": "0.32.9"
   },
